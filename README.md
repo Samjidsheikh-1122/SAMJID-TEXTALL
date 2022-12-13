@@ -1,1 +1,5 @@
 # SAMJID-TEXTALL
+
+
+
+cd SAMJID-TEXT.py
